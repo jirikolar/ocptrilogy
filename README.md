@@ -2,6 +2,9 @@
 
 Prezentace s PDF z Openshift Trilogy I(Pha Andel),II(Brno-Red Hat),II (Praha impactHub) jsou v PDF vyse
 
+Openshift si vyzkousejte v Browseru na:
+https://learn.openshift.com/
+
 dale:
 
 odkaz na CI/CD workshop https://github.com/dbecvarik/workshopper-content/blob/demo/cicd.adoc
